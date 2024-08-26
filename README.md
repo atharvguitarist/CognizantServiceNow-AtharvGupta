@@ -24,7 +24,7 @@ This repository is organized as follows:
 │   ├── Week-4-Report.pdf
 │   └── Code/
 └── README.md
-
+```
 ---
 
 ## Author
@@ -34,4 +34,4 @@ This repository is organized as follows:
 
 ## Contact
 
-If you have any questions or feedback, please contact me at the email above or connect with me on [LinkedIn](https://www.linkedin.com/in/atharv-gupta/).
+If you have any questions or feedback, please get in touch with me at the email above or connect with me on [LinkedIn](https://www.linkedin.com/in/atharv-gupta/).
