@@ -27,12 +27,12 @@ This repository is organized as follows:
 ```
 ---
 
-## Author
+## Author 👨🏻‍💻
 
 - **Name:** Atharv Gupta
-- [**LinkedIn:**](https://www.linkedin.com/in/atharvguitarist/)
 - **Email:** [atharvg06@gmail.com](mailto:atharvg06@gmail.com)
+[**LinkedIn**](https://www.linkedin.com/in/atharvguitarist/)
 
-## Contact
+## Contact 📱
 
 If you have any questions or feedback, please get in touch with me at the email above or connect with me on [LinkedIn](https://www.linkedin.com/in/atharv-gupta/).
