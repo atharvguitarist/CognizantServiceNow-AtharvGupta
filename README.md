@@ -29,9 +29,8 @@ This repository is organized as follows:
 
 ## Author 👨🏻‍💻
 
-- **Name:** Atharv Gupta
+- **Name:** Atharv Gupta [LinkedIn](https://www.linkedin.com/in/atharvguitarist/)
 - **Email:** [atharvg06@gmail.com](mailto:atharvg06@gmail.com)
-[**LinkedIn**](https://www.linkedin.com/in/atharvguitarist/)
 
 ## Contact 📱
 
