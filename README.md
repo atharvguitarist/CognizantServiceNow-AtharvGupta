@@ -1,6 +1,6 @@
 # Cognizant ServiceNow Program - Weekly Reports
 
-![ServiceNow Logo](https://drive.google.com/file/d/1wgKa9ECjqnuZ0c_YBE3D21zYGpH6HGSQ)
+![ServiceNow Logo](https://drive.google.com/uc?export=view&id=1wgKa9ECjqnuZ0c_YBE3D21zYGpH6HGSQ)
 
 ## Overview
 
