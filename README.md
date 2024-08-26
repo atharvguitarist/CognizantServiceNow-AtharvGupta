@@ -6,7 +6,7 @@
 
 Welcome to my repository for the **Cognizant ServiceNow Program**! This repository contains my weekly reports for the 4-week program, documenting the hands-on tasks and activities I completed each week according to the provided handbook. Each report is available in PDF format and is accompanied by any code files related to the hands-on tasks.
 
-## Repository Structure
+## Repository Structure 
 
 This repository is organized as follows:
 
@@ -24,3 +24,14 @@ This repository is organized as follows:
 │   ├── Week-4-Report.pdf
 │   └── Code/
 └── README.md
+
+---
+
+## Author
+
+- **Name:** [Atharv Gupta](https://www.linkedin.com/in/atharvguitarist/)
+- **Email:** [atharvg06@gmail.com](mailto:atharvg06@gmail.com)
+
+## Contact
+
+If you have any questions or feedback, please contact me at the email above or connect with me on [LinkedIn](https://www.linkedin.com/in/atharv-gupta/).
